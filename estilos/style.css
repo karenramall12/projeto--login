@@ -6,6 +6,7 @@
     padding: 0px;
     margin:0px;
     box-sizing: border-box;
+    font-size: 1em;
 }
 
 body, html{
@@ -47,3 +48,4 @@ section#login > div#formulario{
     padding: 10px;
 
 }
+
