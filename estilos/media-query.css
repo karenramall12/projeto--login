@@ -20,11 +20,7 @@
         width: 70%;
 
     }
-    div.campo>input{
-        height: 100%;
-        width: 90%;
-        
-    }
+   
 }
 
 @media screen and ( min-width: 992px){
@@ -51,9 +47,5 @@
     margin: 20px 0px;
     
 }
-div.campo>input{
-    height: 100%;
-    width: 90%;
-    
-}
+
 }
